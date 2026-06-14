@@ -1,0 +1,34 @@
+{
+    "users": {
+        "parth": {
+            "name": "parth",
+            "count": 10,
+            "todos": [
+                "learn DSA",
+                "watch if wishes could kill"
+            ],
+            "history": {
+                "switchuser": 3,
+                "todo": 2,
+                "todos": 4,
+                "stats": 1
+            }
+        },
+        "arjun": {
+            "name": "arjun",
+            "count": 13,
+            "todos": [],
+            "history": {
+                "time": 2,
+                "date": 1,
+                "stats": 2,
+                "fact": 1,
+                "weather": 1,
+                "joke": 2,
+                "rename": 2,
+                "createuser": 1,
+                "deleteuser": 1
+            }
+        }
+    }
+}
