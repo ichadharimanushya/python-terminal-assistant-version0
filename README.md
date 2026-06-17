@@ -62,3 +62,15 @@ Future inprovements:
 - GUI version
 - AI-powered features
 - Better error handling
+
+About:<br>
+Built as a part of my Python learning journey for my bachelors in technology in CSE.<br>
+Goal was to work with the fundamentals, understand the flow of logic and, understand a new concept with every bug that emerged.<br>
+<br>
+Learning Progress<br>
+Projects Completed:
+- [x] Terminal-Based Personal Assistant
+- [ ] Expense Tracker
+- [ ] Habit Tracker
+- [ ] Library Management System
+- [ ] Web Scraper
